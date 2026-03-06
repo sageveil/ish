@@ -1,0 +1,47 @@
+{
+  "dark": {
+    "backgroundColor": "#101411",
+    "colorPaletteOverrides": [
+      "#101411",
+      "#935155",
+      "#67825B",
+      "#B4A05A",
+      "#65806B",
+      "#9D868C",
+      "#916f54",
+      "#A8AFA6",
+      "#26322A",
+      "#b07a77",
+      "#809a73",
+      "#d4b573",
+      "#74997e",
+      "#baa5ab",
+      "#a37856",
+      "#c3cdc0"
+    ],
+    "foregroundColor": "#c3cdc0"
+  },
+  "light": {
+    "backgroundColor": "#c3cdc0",
+    "colorPaletteOverrides": [
+      "#101411",
+      "#935155",
+      "#67825B",
+      "#B4A05A",
+      "#65806B",
+      "#9D868C",
+      "#916f54",
+      "#A8AFA6",
+      "#c3cdc0",
+      "#b07a77",
+      "#809a73",
+      "#d4b573",
+      "#74997e",
+      "#baa5ab",
+      "#a37856",
+      "#101411"
+    ],
+    "foregroundColor": "#101411"
+  },
+  "version": 1
+}
